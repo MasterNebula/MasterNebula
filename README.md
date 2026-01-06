@@ -49,6 +49,9 @@
 ## 💬 Quote
 > 409 comes, just 202 101 and 100 200
 
+## 🔗 Connect with Me
+<p align="center"><a href="www.linkedin.com/in/adithyan-shabu-85670621a" target="_blank"><img src="/assests/linkedin-logo.json" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@MasterNebula-e3j" target="_blank"><img src="/assests/youtube-button.json" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:master.nebula2255@gmail.com" target="_blank"><img src="/assests/gmail-button.json" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
