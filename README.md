@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" height="30px" width="30px"> I'm Adithyan Shabu</h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" height="30px" width="30px"> Call me Master Nebula</h1>
 <h3 align="center">Always a Student</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <img src="/assests/laptop.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- U 302 Me
+- U 302 Me So i'm Here 
 
 
 ## 🧠 My Focus Areas
